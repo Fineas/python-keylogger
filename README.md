@@ -25,4 +25,4 @@ A small python script for logging all pressed keys
   
   For stopping the program from running press: `CTRL+ALT+DEL` and choose `Task Manager`, there search for your process (the pythonw process) and kill it.  
   
-![Find Path](https://i.imgur.com/WWi4Mep.jpg)
+  ![Find Path](https://i.imgur.com/WWi4Mep.jpg)
