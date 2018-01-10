@@ -13,11 +13,11 @@ A small python script for logging all pressed keys
   1. For a basic ussage, you can either go to `cmd` and type: `python \path_to_file\keylogger.pyw` either double click and choose to open with `python`
   2. For a more hackish ussage, use the `.bat` file as well. First go and find out the exact location of the program you want to open simultaniously with the python script.
   
-![Find Path](https://i.imgur.com/JSz0rtN.jpg)
+  ![Find Path](https://i.imgur.com/JSz0rtN.jpg)
   
   Next go and edit the `.bat` file and place your path.
   
-![Find Path](https://i.imgur.com/KB0F4CH.jpg)
+  ![Find Path](https://i.imgur.com/KB0F4CH.jpg)
 
   Now, make the `.bat` file look like the program you also want to open and...enjoy keylogging.
   
